@@ -1,11 +1,8 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/ederzoca/14c1ac32554b2f51a8db5c07050b2838/raw/f26014e05f37a5a5ac77e61d67a305ab2f22a1ff/github-card.svg"/>
 <h1 align="left">Hey, I'm Eder</h1>
 
 - 🔥 Studying Analysis and Systems Development at Senac 
 
 - 🔭 I’m currently working at [Eco Resíduos Ambiental]([https://www.instagram.com/ecoresiduos_ambiental/?theme=dark])
-
-<br>
 
 <p align="left" style="background:yellow">
 <a href="linkedin.com/in/eder-silveira-202854237/" target="_blank">
@@ -20,6 +17,13 @@
 
 <br>
 
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left" display="inline">
+<img width="430em" src="https://github-readme-stats.vercel.app/api?username=ederzoca&show_icons=true&theme=radical" alt="ederzoca's stats"/>
+<img width="387em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ederzoca&layout=compact&theme=radical" alt="ederzoca's most languages"/>
+</p>
+
 ## 🛠 &nbsp;Studying
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -29,11 +33,3 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 
-<br>
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=ederzoca&show_icons=true&theme=radical" alt="ederzoca's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ederzoca&layout=compact&theme=radical" alt="ederzoca's most languages"/>
-</p>
