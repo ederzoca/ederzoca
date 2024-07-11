@@ -1,6 +1,6 @@
 <h1 align="left">Hey, I'm Eder</h1>
 
-- 🔥 Studying Analysis and Systems Development at Senac 
+- 🚀 Studying Analysis and Systems Development at Senac 
 
 - 🔭 I’m currently working at [Celk Sistemas]([https://www.instagram.com/celksistemas/?theme=dark])
 
