@@ -26,10 +26,9 @@
 
 ## 🛠 &nbsp;Studying
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-61DAFB?logo=javascript&logoColor=white&style=for-the-badge)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-61DAFB?logo=html5&logoColor=white&style=for-the-badge)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-61DAFB?logo=css3&logoColor=white&style=for-the-badge)&nbsp;
+![Java](https://img.shields.io/badge/-Java-61DAFB?logo=java&logoColor=white&style=for-the-badge)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-61DAFB?logo=postgresql&logoColor=white&style=for-the-badge)&nbsp;
 
