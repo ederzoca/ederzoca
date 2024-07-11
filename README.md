@@ -4,17 +4,6 @@
 
 - 🔭 I’m currently working at [Celk Sistemas]([https://www.instagram.com/celksistemas/?theme=dark])
 
-<p align="left" style="background:yellow">
-<a href="linkedin.com/in/eder-silveira-202854237/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Eder Silveira-663399?logoColor=white&style=for-the-badge&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/eder.silveiraa" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-eder.silveira-663399?logoColor=white&style=for-the-badge&logo=instagram" alt="instagram"/>
-</a>
-<a href="mailto:eder.silveira10@hotmail.com" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-eder.silveira10@hotmail.com-663399?logoColor=white&style=for-the-badge&logo=gmail" alt="gmail"/>
-</a>
-
 <br>
 
 ## ⚙️ &nbsp;GitHub Analytics
