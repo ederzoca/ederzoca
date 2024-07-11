@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working at [Celk Sistemas]([https://www.instagram.com/celksistemas/?theme=dark])
 
-<br>
-
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left" display="inline">
