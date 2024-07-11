@@ -6,13 +6,13 @@
 
 <p align="left" style="background:yellow">
 <a href="linkedin.com/in/eder-silveira-202854237/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Eder Silveira-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-Eder Silveira-663399?logoColor=white&style=for-the-badge&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/eder.silveiraa" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-eder.silveira-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-eder.silveira-663399?logoColor=white&style=for-the-badge&logo=instagram" alt="instagram"/>
 </a>
 <a href="mailto:eder.silveira10@hotmail.com" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Eder Silveira-05122A?style=flat&logo=gmail" alt="gmail"/>
+ <img align="center" src="https://img.shields.io/badge/-eder.silveira10@hotmail.com-663399?logoColor=white&style=for-the-badge&logo=gmail" alt="gmail"/>
 </a>
 
 <br>
@@ -26,9 +26,9 @@
 
 ## 🛠 &nbsp;Studying
 
+![Java](https://img.shields.io/badge/-Java-663399?logo=CoffeeScript&logoColor=white&style=for-the-badge)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-663399?logo=javascript&logoColor=white&style=for-the-badge)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-61DAFB?logo=html5&logoColor=white&style=for-the-badge)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-61DAFB?logo=css3&logoColor=white&style=for-the-badge)&nbsp;
-![Java](https://img.shields.io/badge/-Java-61DAFB?logo=CoffeeScript&logoColor=white&style=for-the-badge)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-61DAFB?logo=postgresql&logoColor=white&style=for-the-badge)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-663399?logo=html5&logoColor=white&style=for-the-badge)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-663399?logo=css3&logoColor=white&style=for-the-badge)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-663399?logo=postgresql&logoColor=white&style=for-the-badge)&nbsp;
 
