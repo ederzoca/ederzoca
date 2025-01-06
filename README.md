@@ -15,6 +15,7 @@
 
 ![Java](https://img.shields.io/badge/-Java-663399?logo=CoffeeScript&logoColor=white&style=for-the-badge)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-663399?logo=javascript&logoColor=white&style=for-the-badge)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-663399?logo=typescript&logoColor=white&style=for-the-badge)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-663399?logo=html5&logoColor=white&style=for-the-badge)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-663399?logo=css3&logoColor=white&style=for-the-badge)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-663399?logo=postgresql&logoColor=white&style=for-the-badge)&nbsp;
